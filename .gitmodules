@@ -1,0 +1,3 @@
+[submodule "modules/dreamview_plus/frontend/packages/st-tools"]
+	path = modules/dreamview_plus/frontend/packages/st-tools
+	url = git@gitlab.senseauto.com:hexing/st-tools.git
